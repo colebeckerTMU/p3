@@ -382,12 +382,12 @@ li{
 .flip-card-back{
     color: black;
     transform: rotateY(180deg);
-    font-size: 12px;
+    font-size: 11px;
     text-align: left;
 }
 
 .flipContent :hover{
-    font-size: 18px;
+    font-size: 22px;
 }
 
 #img2credit{
@@ -397,7 +397,7 @@ li{
     top: 0;
     width:100%;
     text-align: right;
-    transform: translate(45% 0%);
+    transform: translate(25px 0%);
 }
 
 @media (max-width:1050px){ /* establishing support for smaller browsers*/
